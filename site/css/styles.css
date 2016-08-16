@@ -1,0 +1,51 @@
+body {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0 20px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+a {
+  color: #4078c0;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+code {
+  font-size: 1.2em;
+  padding: 0 4px;
+  background-color: #eee;
+  border-radius: 3px;
+  border: 1px solid #ddd;
+}
+
+ul {
+  padding: 0;
+  border: 1px #ccc solid;
+  border-radius: 5px;
+}
+
+li {
+  margin: 0;
+  padding: 4px 8px;
+  list-style: none;
+  border-bottom: 1px solid #ccc;
+}
+
+li:first-child {
+  padding-top: 8px;
+  border-radius: 5px 5px 0 0;
+  background-color: #eee;
+}
+
+li:last-child {
+  padding-bottom: 8px;
+  border-bottom: none;
+}
+
+#downloads {
+  margin: -8px;
+}
