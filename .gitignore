@@ -1,2 +1,15 @@
-/minecraft-server.pem
-.DS_Store
+banned-ips.json
+banned-players.json
+eula.txt
+index.html.bak
+indexer.html
+logs/
+minecraft_server.1.10.2.jar
+minecraft_server.jar
+nohup.out
+ops.json
+server-icon.png
+server.properties
+usercache.json
+whitelist.json
+world/
